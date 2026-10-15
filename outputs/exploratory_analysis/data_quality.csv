@@ -1,0 +1,20 @@
+feature,type,missing_values,min,max,levels
+patient_id,numeric,0,1.0,15000.0,-
+age,numeric,0,18.0,80.0,-
+gender,categorical,0,,,"Female, Male, Other"
+city,categorical,0,,,"Mumbai, Thane, Bengaluru, Hyderabad, Delhi, Kolkata, Ahmedabad, Pune, Chennai, Kanpur, Bhopal, Visakhapatnam, Patna, Jaipur, Surat, Nagpur, Indore, Lucknow"
+bmi,numeric,0,15.0,40.8,-
+family_history_diabetes,categorical,0,,,"Yes, No"
+physical_activity_level,categorical,0,,,"Sedentary, Moderate, Active"
+diet_type,categorical,0,,,"Vegetarian, Non-Vegetarian, Pescatarian, Vegan"
+smoking_status,categorical,472,,,"Never, Current, Former"
+alcohol_consumption,categorical,3788,,,"Never, Regular, Occasional"
+hours_sleep_per_night,numeric,0,3.0,12.0,-
+stress_level,numeric,0,1.0,10.0,-
+fasting_blood_sugar,numeric,0,72.0,400.0,-
+hba1c_level,numeric,0,4.8,13.4,-
+blood_pressure_systolic,numeric,0,80.0,200.0,-
+blood_pressure_diastolic,numeric,0,50.0,120.0,-
+waist_circumference_cm,numeric,0,73.2,148.2,-
+income_bracket,categorical,463,,,"High, Low, Middle"
+diabetes_risk,categorical,0,,,"Low, High, Moderate"
