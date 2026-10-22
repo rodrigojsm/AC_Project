@@ -1,0 +1,10 @@
+feature,outliers,outliers (%),Low,Moderate,High
+age,3,0.0,0.0,0.0,1.0
+bmi,153,1.0,0.12,0.39,0.5
+hours_sleep_per_night,360,2.4,0.63,0.24,0.13
+stress_level,0,0.0,0.0,0.0,0.0
+fasting_blood_sugar,432,2.9,0.01,0.0,0.98
+hba1c_level,355,2.4,0.0,0.01,0.99
+blood_pressure_systolic,11,0.1,0.82,0.09,0.09
+blood_pressure_diastolic,213,1.4,0.44,0.31,0.25
+waist_circumference_cm,167,1.1,0.17,0.39,0.44

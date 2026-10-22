@@ -1,0 +1,10 @@
+,Missing,Min,Max,Mean,Std
+age,0,18.0,80.0,44.33,10.38
+bmi,0,15.0,40.8,23.06,4.05
+hours_sleep_per_night,0,3.0,12.0,7.31,1.11
+stress_level,0,1.0,10.0,5.94,2.15
+fasting_blood_sugar,0,72.0,400.0,168.79,38.37
+hba1c_level,0,4.8,13.4,6.88,0.84
+blood_pressure_systolic,0,80.0,200.0,139.5,12.66
+blood_pressure_diastolic,0,50.0,120.0,86.26,8.39
+waist_circumference_cm,0,73.2,148.2,100.21,10.76
